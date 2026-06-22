@@ -1,0 +1,6 @@
+@JobSyncAPI_HostAddress = http://localhost:5242
+
+GET {{JobSyncAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
